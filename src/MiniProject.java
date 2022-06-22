@@ -1,2 +1,2 @@
-public class MiniProject {
+class MiniProject {
 }
